@@ -1,2 +1,2 @@
 # GSC_NETCore
-Practicas Backend NET Core
+Backend NET Core
